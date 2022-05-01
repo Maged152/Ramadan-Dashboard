@@ -1,0 +1,198 @@
+Country,Capital,ISO
+Afghanistan,Kabul,AF
+Albania,Tirana,AL
+Algeria,Algiers,DZ
+Andorra,Andorra la Vella,AD
+Angola,Luanda,AO
+Antigua and Barbuda,St. John's,AG
+Argentina,Buenos Aires,AR
+Armenia,Yerevan,AM
+Australia,Canberra,AU
+Austria,Vienna,AT
+Azerbaijan,Baku,AZ
+Bahamas,Nassau,BS
+Bahrain,Manama,BH
+Bangladesh,Dhaka,BD
+Barbados,Bridgetown,BB
+Belarus,Minsk,BY
+Belgium,Brussels,BE
+Belize,Belmopan,BZ
+Benin,Porto Novo,BJ
+Bhutan,Thimphu,BT
+Bolivia,Sucre,BO
+Bosnia and Herzegovina,Sarajevo,BA
+Botswana,Gaborone,BW
+Brazil,Brasilia,BR
+Brunei,Bandar Seri Begawan,BN
+Bulgaria,Sofia,BG
+Burkina Faso,Ouagadougou,BF
+Burundi,Bujumbura,BI
+Cambodia,Phnom Penh,KH
+Cameroon,Yaoundé,CM
+Canada,Ottawa,CA
+Cape Verde,Praia,CV
+Central African Republic,Bangui,CF
+Chad,N'Djamena,TD
+Chile,Santiago,CL
+China,Beijing,CN
+Colombia,Bogota,CO
+Comoros,Moroni,KM
+Costa Rica,San José,CR
+Croatia,Zagreb,HR
+Cuba,Havana,CU
+Cyprus,Nicosia,CY
+Czech Republic,Prague,CZ
+Democratic Republic of Congo,Kinshasa,CD
+Denmark,Copenagen,DK
+Djibouti,Djibouti,DJ
+Dominica,Roseau,DM
+Dominican Republic,Santo Domingo,DO
+East Timor,Dili,TL
+Ecuador,Quito,EC
+Egypt,Cairo,EG
+El Salvador,San Salvador,SV
+Equatorial Guinea,Malabo,GQ
+Eritrea,Asmara,ER
+Estonia,Tallinn,EE
+Eswatini,Mbabane,SZ
+Ethiopia,Addis Ababa,ET
+Fiji,Suva,FJ
+Finland,Helsinki,FI
+France,Paris,FR
+Gabon,Libreville,GA
+Gambia,Banjul,GM
+Georgia,Tbilisi,GE
+Germany,Berlin,DE
+Ghana,Accra,GH
+Greece,Athens,GR
+Grenada,St. George's,GD
+Guatemala,Guatemala City,GT
+Guinea,Conakry,GN
+Guinea-Bissau,Bissau,GW
+Guyana,Georgetown,GY
+Haiti,Port-au-Prince,HT
+Honduras,Tegucigalpa,HN
+Hungary,Budapest,HU
+Iceland,Reykjavík,IS
+India,New Delhi,IN
+Indonesia,Jakarta,ID
+Iran,Tehran,IR
+Iraq,Baghdad,IQ
+Ireland,Dublin,IE
+Israel,Jerusalem,IL
+Italy,Rome,IT
+Ivory Coast,Yamoussoukro,CI
+Jamaica,Kingston,JM
+Japan,Tokyo,JP
+Jordan,Amman,JO
+Kazakhstan,Astana,KZ
+Kenya,Nairobi,KE
+Kiribati,Tarawa,KI
+"Korea, North",Pyongyang,KP
+"Korea, South",Seoul,KR
+Kosovo,Pristina,-
+Kuwait,Kuwait City,KW
+Kyrgyzstan,Bishkek,KG
+Laos,Vientiane,LA
+Latvia,Riga,LV
+Lebanon,Beirut,LB
+Lesotho,Maseru,LS
+Liberia,Monrovia,LR
+Libya,Tripoli,LY
+Liechtenstein,Vaduz,LI
+Lithuania,Vilnius,LT
+Luxembourg,Luxembourg,LU
+Madagascar,Antananarivo,MG
+Malawi,Lilongwe,MW
+Malaysia,Kuala Lumpur,MY
+Maldives,Malé,MV
+Mali,Bamako,ML
+Malta,Valletta,MT
+Marshall Islands,Majuro,MH
+Mauritania,Nouakchott,MR
+Mauritius,Port Louis,MU
+Mexico,Mexico City,MX
+Micronesia,Palikir,FM
+Moldova,Chisinau,MD
+Monaco,Monaco,MC
+Mongolia,Ulaanbaatar,MN
+Montenegro,Podgorica,ME
+Morocco,Rabat,MA
+Mozambique,Maputo,MZ
+Myanmar,Naypyidaw,MM
+Namibia,Windhoek,NA
+Nauru,Yaren,NR
+Nepal,Kathmandu,NP
+Netherlands,Amsterdam,NL
+New Zealand,Wellington,NZ
+Nicaragua,Managua,NI
+Niger,Niamey,NE
+Nigeria,Abuja,NG
+North Macedonia,Skopje,MK
+Norway,Oslo,NO
+Oman,Muscat,OM
+Pakistan,Islamabad,PK
+Palau,Melekeok,PW
+Palestine,East Jerusalem,PS
+Panama,Panama City,PA
+Papua New Guinea,Port Moresby,PG
+Paraguay,Asunción,PY
+Peru,Lima,PE
+Philippines,Manila,PH
+Poland,Warsaw,PL
+Portugal,Lisbon,PT
+Qatar,Doha,QA
+Republic of the Congo,Brazzaville,CG
+Romania,Bucharest,RO
+Russia,Moscow,RU
+Rwanda,Kigali,RW
+Saint Kitts and Nevis,Basseterre,KN
+Saint Lucia,Castries,LC
+Saint Vincent and the Grenadines,Kingstown,VC
+Samoa,Apia,WS
+San Marino,San Marino,SM
+São Tomé and Príncipe,São Tomé,ST
+Saudi Arabia,Riyadh,SA
+Senegal,Dakar,SN
+Serbia,Belgrade,RS
+Seychelles,Victoria,SC
+Sierra Leone,Freetown,SL
+Singapore,Singapore,SG
+Slovakia,Bratislava,SK
+Slovenia,Ljubljana,SI
+Solomon Islands,Honiara,SB
+Somalia,Mogadishu,SO
+South Africa,Pretoria,ZA
+South Sudan,Juba,SS
+Spain,Madrid,ES
+Sri Lanka,Sri Jayawardenapura Kotte,LK
+Sudan,Khartoum,SD
+Suriname,Paramaribo,SR
+Sweden,Stockholm,SE
+Switzerland,Bern,CH
+Syria,Damascus,SY
+Taiwan,Taipei,TW
+Tajikistan,Dushanbe,TJ
+Tanzania,Dodoma,TZ
+Thailand,Bangkok,TH
+Togo,Lomé,TG
+Tonga,Nukualofa,TO
+Trinidad and Tobago,Port of Spain,TT
+Tunisia,Tunis,TN
+Turkey,Ankara,TR
+Turkmenistan,Ashgabat,TM
+Tuvalu,Funafuti,TV
+Uganda,Kampala,UG
+Ukraine,Kiev,UA
+United Arab Emirates,Abu Dhabi,AE
+United Kingdom,London,GB
+United States,Washington D.C.,US
+Uruguay,Montevideo,UY
+Uzbekistan,Tashkent,UZ
+Vanuatu,Port Vila,VU
+Vatican City,Vatican City,VA
+Venezuela,Caracas,VE
+Vietnam,Hanoi,VN
+Yemen,Sana'a,YE
+Zambia,Lusaka,ZM
+Zimbabwe,Harare,ZW
